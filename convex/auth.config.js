@@ -1,8 +1,8 @@
 export default {
   providers: [
     {
-      domain: "https://valued-bluejay-37.clerk.accounts.dev",
+      domain: "https://outgoing-chimp-72.clerk.accounts.dev",
       applicationID: "convex",
     },
-  ]
+  ],
 };
