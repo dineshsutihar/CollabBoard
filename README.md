@@ -1,19 +1,16 @@
 # CollabBoard
 Built a collaborative whiteboard platform with tools for drawing, layering, and real-time collaborating. Integrated  authentication, organizations, and a favoriting system. 
 
-## Getting Started
+### Setup Convex
 
-First, run the development server:
+```shell
+npx convex dev
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Start the app
 
+```shell
+npm run dev
+```
+# mira-clone-board
