@@ -57,7 +57,7 @@ export const Info = ({
               "font-semibold text-xl ml-2 text-black",
               font.className,
             )}>
-              Board
+              CoBoard
             </span>
           </Link>
         </Button>
@@ -93,7 +93,7 @@ export const Info = ({
 
 export const InfoSkeleton = () => {
   return (
-    <div 
+    <div
       className="absolute top-2 left-2 bg-white rounded-md px-1.5 h-12 flex items-center shadow-md w-[300px]"
     />
   );
