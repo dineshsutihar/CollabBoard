@@ -1,7 +1,7 @@
 export default {
   providers: [
     {
-      domain: "https://outgoing-chimp-72.clerk.accounts.dev",
+      domain: "https://clerk.dineshsutihar.me",
       applicationID: "convex",
     },
   ],
